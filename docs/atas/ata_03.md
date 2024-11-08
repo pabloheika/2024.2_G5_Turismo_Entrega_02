@@ -1,14 +1,14 @@
 
-# Reunião 2 : 07/11/2024
+# Reunião 3: 07/11/2024
 
 ## Introdução
 
-Este artefato resume a reunião do dia 29 de Outubro de 2024 do grupo 05 realizada, expondo os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
+Este artefato resume a reunião do dia 07 de Novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
 
 
 ## Pautas da reunião:
 
-- Foco 01 da entrega 02:
+- Foco 01 da Entrega 02:
   - Modelagem Estática.
 
 - Decidir as tecnologias e frameworks a serem utilizados no projeto.
@@ -57,11 +57,11 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 Os resultados dessa reunião foram:
 
-Foi decidido pelo grupo a divisão das tarefas do foco 01 da segunda entrega, com as seguintes etapas: Diagrama de classes, diagrama de componentes, diagrama de implantação, e foram alocados os membros nas issues criadas pelo PO do projeto, o integrante [Pablo][PabloGH]. Também foi decidido pelo grupo as ferramentas a serem utilizadas no desenvolvimento do projeto e alocados os membros que farão parte do backend e frontend, como mostrado abaixo.
+Foi decidido pelo grupo a divisão das tarefas do foco 01 da segunda entrega, com as seguintes etapas: Diagrama de classes, diagrama de componentes e diagrama de implantação. Foram alocados os membros nas issues criadas pelo PO do projeto, o integrante [Pablo][PabloGH]. Também foi decidido pelo grupo as ferramentas a serem utilizadas no desenvolvimento do projeto e alocados os membros que farão parte do backend e frontend, como mostrado abaixo.
 
 #### Ferramentas e tecnologias escolhidas:
 
-- Backend: **Nest**
+- Backend: **NestJS**
 
 - Frontend: **React**
 
@@ -78,7 +78,7 @@ Foi decidido pelo grupo a divisão das tarefas do foco 01 da segunda entrega, co
 #### Membros alocados para o backend:
 
 - [Tales][TalesGH]
-- [Lara]´[KathlynGH]
+- [Lara][KathlynGH]
 - [Pedro Paulo][PedroPGH]
 - [Cainã][CainaGH]
 - [Claudio][ClaudioGH]
@@ -93,9 +93,9 @@ Foi decidido pelo grupo a divisão das tarefas do foco 01 da segunda entrega, co
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor
-|:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 07/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Claudio][ClaudioGH] |
+| Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
+|:-:|:-:|:-:|:-:|:-:|:--:|
+|`1.0`| 07/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Claudio][ClaudioGH] |Foi corrigida a data da reunião na introdução e alguns erros de Markdown.|
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
